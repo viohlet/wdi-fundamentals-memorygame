@@ -1,7 +1,6 @@
 
 nav {
 	background-color: #808080;
-	text-decoration: none;
 }
 
 .clearfix:after {
@@ -48,6 +47,10 @@ nav a:hover {
 	color: #ff0000;
 }
 
+p{
+	text-align: center;
+}
+
 footer{
 	background-color: #808080;
 	text-align: center;
@@ -63,8 +66,15 @@ body{
 }
  h1 {
     color: rgb(2,132,130);
+    text-align: center;
   }
 
  h2 {
     color: #ffd700;
+   	text-align: center;
   }
+
+img {
+	height: 200px;
+  	width: 150px;
+}
